@@ -8,7 +8,7 @@ public class model {
     
     @ID
     @GenerateValue(strategy = GenerationType.IDENTITY)
-    private Long idcliente;
+    private Long idGmaer;
             private String nombre;
             private String apellidos;
             private String correo;
